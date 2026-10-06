@@ -79,10 +79,18 @@ Building projects to improve my skills in:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/afroz-au">
-    <img src="https://img.shields.io/badge/GitHub-afroz--au-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+
+<a href="https://www.linkedin.com/in/afroz-shaik-36074b285/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:afrozau@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="tel:+919398057080">
+  <img src="https://img.shields.io/badge/Phone-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 ---
 
